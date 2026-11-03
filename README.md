@@ -1,3 +1,1 @@
-i make music games apps all of that.
-started programming in 2020, C and C++.
-now i'm doing ASM, C#, OpenGL, DirectX.
+i make games, music, programs, software, libraries and much more, i mainly indulge in C, C++ and OpenGL, but I can also do C# and DirectX.
